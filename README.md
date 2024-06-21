@@ -7,7 +7,7 @@
 
 # 🌟 Star 最多的下载工具
 
-| ![BBDown](https://socialify.git.ci/nilaoda/BBDown/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light) [BBDown](https://github.com/nilaoda/BBDown)   | ![lux](https://socialify.git.ci/iawia002/lux/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)[lux](https://github.com/iawia002/lux)| ![Hitomi-Downloader](https://socialify.git.ci/KurtBestor/Hitomi-Downloader/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)[Hitomi-Downloader]([https://github.com/nilaoda/BBDown](https://github.com/KurtBestor/Hitomi-Downloader)) |
+| ![BBDown](https://socialify.git.ci/nilaoda/BBDown/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light) [BBDown](https://github.com/nilaoda/BBDown)   | ![lux](https://socialify.git.ci/iawia002/lux/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)[iawia002/lux](https://github.com/iawia002/lux)| ![Hitomi-Downloader](https://socialify.git.ci/KurtBestor/Hitomi-Downloader/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)[Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)|
 | :---:         |     :---:      |    :---: |
 
 
