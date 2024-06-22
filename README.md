@@ -18,3 +18,7 @@
 |![video-analyse](https://socialify.git.ci/ta867070117/video-analyse/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)![img](https://img.shields.io/github/stars/ta867070117/video-analyse?label=Star)</br>[video-analyse](https://github.com/ta867070117/video-analyse)|
 | :---:         |  
 |![small-video-record](https://socialify.git.ci/mabeijianxi/small-video-record/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)![img](https://img.shields.io/github/stars/mabeijianxi/small-video-record?label=Star)</br>[small-video-record](https://github.com/mabeijianxi/small-video-record)|
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=DangJin/awesome-social-media-downloader&type=Timeline)](https://star-history.com/#DangJin/awesome-social-media-downloader&Timeline)
