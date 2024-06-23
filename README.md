@@ -21,4 +21,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=DangJin/awesome-social-media-downloader&type=Timeline)](https://star-history.com/#DangJin/awesome-social-media-downloader&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=DangJin/awesome-social-media-downloader&type=Date)](https://star-history.com/#DangJin/awesome-social-media-downloader&Date)
