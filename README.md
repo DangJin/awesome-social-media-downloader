@@ -2,6 +2,13 @@
   <image src="https://telegraph-image.pages.dev/file/8ac10bda46c21942a3550.png"></image>
 </div>
 <h1 align="center">awesome-social-media-downloader </h1>
+<div align="center">
+
+![GitHub stars](https://img.shields.io/github/stars/DangJin/awesome-social-media-downloader?style=flat&logo=github)
+![License](https://img.shields.io/github/license/DangJin/awesome-social-media-downloader?style=flat)
+[![X ID](https://img.shields.io/badge/X-@JinsFavorites-1DA1F2?logo=twitter&style=flat)](https://twitter.com/JinsFavorites)
+
+</div>
 <p align="center">收录了一些能够免费下载油管、B 站、抖音等平台视频的下载工具。</br>Some download tools that can freely download videos from platforms such as YouTube, Bilibili, Douyin, etc. have been included.  </p>
 
 
