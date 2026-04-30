@@ -26,6 +26,12 @@
 | :---:         |  
 |![small-video-record](https://socialify.git.ci/mabeijianxi/small-video-record/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)![img](https://img.shields.io/github/stars/mabeijianxi/small-video-record?label=Star)</br>[small-video-record](https://github.com/mabeijianxi/small-video-record)|
 
+## 🤖 Telegram Bot 下载工具 / Telegram Bot Downloaders
+
+| 名称 / Name | 平台 / Platforms | 说明 / Description |
+|-------------|-----------------|-------------------|
+| [Cyber Collector](https://t.me/cybercollectorbot) | TikTok, Instagram, YouTube, X/Twitter, Facebook | 免费 Telegram 机器人，支持无水印下载 TikTok，Instagram Reels/Stories，YouTube 及短视频，X/Twitter，Facebook。无需注册，无广告。[官网](https://cybercollector.hitkey.io) |
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=DangJin/awesome-social-media-downloader&type=Date)](https://star-history.com/#DangJin/awesome-social-media-downloader&Date)
