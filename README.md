@@ -26,6 +26,12 @@
 | :---:         |  
 |![small-video-record](https://socialify.git.ci/mabeijianxi/small-video-record/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)![img](https://img.shields.io/github/stars/mabeijianxi/small-video-record?label=Star)</br>[small-video-record](https://github.com/mabeijianxi/small-video-record)|
 
+## 🌐 在线下载工具 / Online Video Downloaders
+
+| 名称 / Name | 平台 / Platforms | 说明 / Description |
+|-------------|-----------------|-------------------|
+| [PullVid](https://pullvid.com) | YouTube, TikTok, Instagram, X/Twitter, Facebook | 免费在线下载工具，无需安装或注册。可下载视频（最高 4K）、提取 MP3、下载字幕和缩略图；界面简洁，无虚假下载按钮；支持 10 种语言。Free browser-based downloader — no install or signup. Save video (up to 4K), extract MP3, grab subtitles and thumbnails; clean UI with no fake download buttons; available in 10 languages. |
+
 ## 🤖 Telegram Bot 下载工具 / Telegram Bot Downloaders
 
 | 名称 / Name | 平台 / Platforms | 说明 / Description |
