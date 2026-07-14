@@ -26,6 +26,10 @@
 | :---:         |  
 |![small-video-record](https://socialify.git.ci/mabeijianxi/small-video-record/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)![img](https://img.shields.io/github/stars/mabeijianxi/small-video-record?label=Star)</br>[small-video-record](https://github.com/mabeijianxi/small-video-record)|
 
+## 🌐 Web 下载工具 / Web Downloaders
+
+- [curl-x](https://www.curl-x.com) - Web downloader for Twitter/X, Instagram, TikTok, Facebook, Threads, Reddit and Bluesky; also works from the terminal (`curl -OJ https://www.curl-x.com/<user>/status/<id>` streams the media file).
+
 ## 🤖 Telegram Bot 下载工具 / Telegram Bot Downloaders
 
 | 名称 / Name | 平台 / Platforms | 说明 / Description |
