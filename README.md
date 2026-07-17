@@ -32,6 +32,14 @@
 |-------------|-----------------|-------------------|
 | [Cyber Collector](https://t.me/cybercollectorbot) | TikTok, Instagram, YouTube, X/Twitter, Facebook | 免费 Telegram 机器人，支持无水印下载 TikTok，Instagram Reels/Stories，YouTube 及短视频，X/Twitter，Facebook。无需注册，无广告。[官网](https://cybercollector.hitkey.io) |
 
+## 🌐 在线下载网站 / Online Web Downloaders
+
+| 名称 / Name | 平台 / Platforms | 说明 / Description |
+|-----------|------------------|--------------------|
+| [LinkToVid](https://linktovid.online) | YouTube, Facebook, TikTok, Instagram | Free and blazing fast online video downloader. |
+
+
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=DangJin/awesome-social-media-downloader&type=Date)](https://star-history.com/#DangJin/awesome-social-media-downloader&Date)
