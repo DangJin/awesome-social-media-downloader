@@ -20,7 +20,6 @@
 |![BBDown](https://socialify.git.ci/nilaoda/BBDown/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)![img](https://img.shields.io/github/stars/nilaoda/BBDown?label=Star)</br>[BBDown](https://github.com/nilaoda/BBDown)|![YoutubeDownloader](https://socialify.git.ci/Tyrrrz/YoutubeDownloader/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)![img](https://img.shields.io/github/stars/Tyrrrz/YoutubeDownloader?label=Star)</br>[YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)|
 |![wechatVideoDownload](https://socialify.git.ci/qiye45/wechatVideoDownload/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)![img](https://img.shields.io/github/stars/qiye45/wechatVideoDownload?label=Star)</br>[wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload)||
 
-
 ## 🌟 其他辅助工具
 |![video-analyse](https://socialify.git.ci/ta867070117/video-analyse/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)![img](https://img.shields.io/github/stars/ta867070117/video-analyse?label=Star)</br>[video-analyse](https://github.com/ta867070117/video-analyse)|
 | :---:         |  
@@ -31,6 +30,12 @@
 | 名称 / Name | 平台 / Platforms | 说明 / Description |
 |-------------|-----------------|-------------------|
 | [Cyber Collector](https://t.me/cybercollectorbot) | TikTok, Instagram, YouTube, X/Twitter, Facebook | 免费 Telegram 机器人，支持无水印下载 TikTok，Instagram Reels/Stories，YouTube 及短视频，X/Twitter，Facebook。无需注册，无广告。[官网](https://cybercollector.hitkey.io) |
+
+## 🌐 Online Web Downloaders
+
+| 名称 / Name | 平台 / Platforms | 说明 / Description |
+|---|---|---|
+| [Twitee](https://twitee.co/twitter-video-downloader) | X / Twitter | Free Twitter video downloader for public X posts. Paste a post URL to download Twitter video and GIF files without an account or sign-in. |
 
 ## Star History
 
