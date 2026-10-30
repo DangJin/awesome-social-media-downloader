@@ -26,6 +26,12 @@
 | :---:         |  
 |![small-video-record](https://socialify.git.ci/mabeijianxi/small-video-record/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)![img](https://img.shields.io/github/stars/mabeijianxi/small-video-record?label=Star)</br>[small-video-record](https://github.com/mabeijianxi/small-video-record)|
 
+## 🌐 Web 下载工具 / Web Downloaders
+
+- [FBSaver](https://www.fb-saver.com) - Free Facebook video and Reels downloader in the browser.
+- [IGSaver](https://www.ig-saver.com) - Free Instagram Reels, posts, photos and Stories downloader in the browser.
+- [VideoSaver](https://www.free-videodownload.com) - Free browser downloader for TikTok, Instagram, X, Facebook, Pinterest, Reddit and more. No signup for public links.
+
 ## 🤖 Telegram Bot 下载工具 / Telegram Bot Downloaders
 
 | 名称 / Name | 平台 / Platforms | 说明 / Description |
