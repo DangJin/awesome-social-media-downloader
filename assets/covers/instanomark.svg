@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">InstaNoMark</title>
+  <desc id="desc">Instagram video downloader without watermark</desc>
+  <rect width="1280" height="640" fill="#ffffff"/>
+  <rect x="1" y="1" width="1278" height="638" rx="24" fill="none" stroke="#e2e8f0" stroke-width="2"/>
+  <rect x="56" y="56" width="112" height="112" rx="28" fill="#2563eb"/>
+  <g fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 81v53m-19-19 19 19 19-19M85 139v10h54v-10"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="56" y="262" fill="#0f172a" font-size="64" font-weight="700">InstaNoMark</text>
+    <text x="58" y="328" fill="#2563eb" font-size="30" font-weight="600">Instagram video downloader</text>
+    <text x="58" y="396" fill="#475569" font-size="28">No watermark, no login, free</text>
+    <path d="M58 477h1164" stroke="#e2e8f0" stroke-width="2"/>
+    <text x="58" y="548" fill="#64748b" font-size="28">instagramvideodownloadwithoutwatermaker.com</text>
+    <path d="M1168 524h32v32m-32 0 32-32" fill="none" stroke="#2563eb" stroke-width="4"/>
+  </g>
+</svg>
