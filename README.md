@@ -13,7 +13,7 @@
 
 
 ## 🌟 最受欢迎的
-|![lux](https://socialify.git.ci/iawia002/lux/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)![img](https://img.shields.io/github/stars/iawia002/lux?label=Star)</br>[lux](https://github.com/iawia002/lux)|![Hitomi-Downloader](https://socialify.git.ci/KurtBestor/Hitomi-Downloader/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)![img](https://img.shields.io/github/stars/KurtBestor/Hitomi-Downloader?label=Star)</br>[Hitomi](https://github.com/KurtBestor/Hitomi-Downloader)|
+|![lux](https://socialify.git.ci/iawia002/lux/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)![img](https://img.shields.io/github/stars/iawia002/lux?label=Star)</br>[lux](https://github.com/iawia002/lux)|**[Hitomi](https://github.com/KurtBestor/Hitomi-Downloader)**<br>上游仓库已停用|
 | :---:         |     :---:      |
 |![downkyi](https://socialify.git.ci/leiurayer/downkyi/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)![img](https://img.shields.io/github/stars/leiurayer/downkyi?label=Star)</br>[downkyi](https://github.com/leiurayer/downkyi)|![gopeed](https://socialify.git.ci/GopeedLab/gopeed/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)![img](https://img.shields.io/github/stars/GopeedLab/gopeed?label=Star)</br>[gopeed](https://github.com/KurtBestor/GopeedLab/gopeed)|
 |![N_m3u8DL-CLI](https://socialify.git.ci/nilaoda/N_m3u8DL-CLI/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)![img](https://img.shields.io/github/stars/nilaoda/N_m3u8DL-CLI?label=Star)</br>[N_m3u8DL-CLI](https://github.com/KurtBestor/nilaoda/N_m3u8DL-CLI)|![cobalt](https://socialify.git.ci/imputnet/cobalt/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)![img](https://img.shields.io/github/stars/imputnet/cobalt?label=Star)</br>[cobalt](https://github.com/imputnet/cobalt)|
@@ -30,17 +30,14 @@
 
 ## 🌐 在线下载工具 / Web Downloaders
 
-| 名称 / Name | 平台 / Platforms | 说明 / Description |
-|---|---|---|
-| [PullVid](https://pullvid.com) | YouTube、TikTok、Instagram、X、Facebook 等 | 在线下载，另提供媒体格式转换。 |
-| [curl-x](https://www.curl-x.com) | X、Instagram、TikTok、Facebook、Threads、Reddit、Bluesky 等 | 支持网页入口和终端 `curl`。 |
-| [VideoSaver](https://www.free-videodownload.com) | TikTok、Instagram、X、Facebook、Pinterest、Reddit、Snapchat 等 | 支持公开链接，提供按平台划分的下载入口。 |
+| **[PullVid](https://pullvid.com)**<br>YouTube、TikTok、Instagram、X、Facebook 等<br>在线下载，另提供媒体格式转换。 | **[curl-x](https://www.curl-x.com)**<br>X、Instagram、TikTok、Facebook、Threads、Reddit、Bluesky 等<br>支持网页入口和终端 `curl`。 |
+| :---: | :---: |
+| **[VideoSaver](https://www.free-videodownload.com)**<br>TikTok、Instagram、X、Facebook、Pinterest、Reddit、Snapchat 等<br>支持公开链接，提供按平台划分的下载入口。 | |
 
 ## 🤖 Telegram Bot 下载工具 / Telegram Bot Downloaders
 
-| 名称 / Name | 平台 / Platforms | 说明 / Description |
-|-------------|-----------------|-------------------|
-| [Cyber Collector](https://t.me/cybercollectorbot) | TikTok, Instagram, YouTube, X/Twitter, Facebook | 免费 Telegram 机器人，支持无水印下载 TikTok，Instagram Reels/Stories，YouTube 及短视频，X/Twitter，Facebook。无需注册，无广告。[官网](https://cybercollector.hitkey.io) |
+| **[Cyber Collector](https://t.me/cybercollectorbot)**<br>TikTok、Instagram、YouTube、X、Facebook<br>支持无水印下载。无需注册，无广告。[官网](https://cybercollector.hitkey.io) | |
+| :---: | :---: |
 
 ## Star History
 
