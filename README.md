@@ -28,6 +28,14 @@
 |![small-video-record](https://socialify.git.ci/mabeijianxi/small-video-record/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)![img](https://img.shields.io/github/stars/mabeijianxi/small-video-record?label=Star)</br>[small-video-record](https://github.com/mabeijianxi/small-video-record)|
 |![bagaoji](https://socialify.git.ci/hope0719/bagaoji/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)![img](https://img.shields.io/github/stars/hope0719/bagaoji?label=Star)</br>[bagaoji](https://github.com/hope0719/bagaoji)|
 
+## 🌐 在线下载工具 / Web Downloaders
+
+| 名称 / Name | 平台 / Platforms | 说明 / Description |
+|---|---|---|
+| [PullVid](https://pullvid.com) | YouTube、TikTok、Instagram、X、Facebook 等 | 在线下载，另提供媒体格式转换。 |
+| [curl-x](https://www.curl-x.com) | X、Instagram、TikTok、Facebook、Threads、Reddit、Bluesky 等 | 支持网页入口和终端 `curl`。 |
+| [VideoSaver](https://www.free-videodownload.com) | TikTok、Instagram、X、Facebook、Pinterest、Reddit、Snapchat 等 | 支持公开链接，提供按平台划分的下载入口。 |
+
 ## 🤖 Telegram Bot 下载工具 / Telegram Bot Downloaders
 
 | 名称 / Name | 平台 / Platforms | 说明 / Description |
