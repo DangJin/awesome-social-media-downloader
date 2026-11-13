@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">Cyber Collector</title>
+  <desc id="desc">Telegram media bot — Send a link. Get the video.</desc>
+  <rect width="1280" height="640" fill="#ffffff"/>
+  <rect x="1" y="1" width="1278" height="638" rx="24" fill="none" stroke="#e2e8f0" stroke-width="2"/>
+  <rect x="56" y="56" width="112" height="112" rx="28" fill="#0284c7"/>
+  <g fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 81v53m-19-19 19 19 19-19M85 139v10h54v-10"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="56" y="262" fill="#0f172a" font-size="72" font-weight="700">Cyber Collector</text>
+    <text x="58" y="328" fill="#0284c7" font-size="34" font-weight="600">Telegram media bot</text>
+    <text x="58" y="396" fill="#475569" font-size="30">Send a link. Get the video.</text>
+    <path d="M58 477h1164" stroke="#e2e8f0" stroke-width="2"/>
+    <text x="58" y="548" fill="#64748b" font-size="28">t.me/cybercollectorbot</text>
+    <path d="M1168 524h32v32m-32 0 32-32" fill="none" stroke="#0284c7" stroke-width="4"/>
+  </g>
+</svg>

@@ -43,13 +43,13 @@ A curated list of social media downloaders and related media tools.
 
 ## 在线下载服务
 
-| **[PullVid](https://pullvid.com)**<br>YouTube、TikTok、Instagram、X、Facebook 等<br>在线下载与媒体格式转换。 | **[curl-x](https://www.curl-x.com)**<br>X、Instagram、TikTok、Facebook 等<br>支持网页入口和终端 `curl`。 |
+| [![PullVid 封面](assets/covers/pullvid.svg)](https://pullvid.com)<br>**[PullVid](https://pullvid.com)**<br>YouTube、TikTok、Instagram、X、Facebook 等<br>在线下载与媒体格式转换。 | [![curl-x 封面](assets/covers/curl-x.svg)](https://www.curl-x.com)<br>**[curl-x](https://www.curl-x.com)**<br>X、Instagram、TikTok、Facebook 等<br>支持网页入口和终端 `curl`。 |
 | :---: | :---: |
-| **[VideoSaver](https://www.free-videodownload.com)**<br>TikTok、Instagram、X、Facebook 等<br>通过公开链接下载，提供按平台划分的入口。 | |
+| [![VideoSaver 封面](assets/covers/videosaver.svg)](https://www.free-videodownload.com)<br>**[VideoSaver](https://www.free-videodownload.com)**<br>TikTok、Instagram、X、Facebook 等<br>通过公开链接下载，提供按平台划分的入口。 | |
 
 ## Telegram 机器人
 
-| **[Cyber Collector](https://t.me/cybercollectorbot)**<br>YouTube、Instagram、TikTok、X、Facebook 等<br>发送媒体链接获取视频。[官网](https://cybercollector.hitkey.io) | |
+| [![Cyber Collector 封面](assets/covers/cyber-collector.svg)](https://t.me/cybercollectorbot)<br>**[Cyber Collector](https://t.me/cybercollectorbot)**<br>YouTube、Instagram、TikTok、X、Facebook 等<br>发送媒体链接获取视频。[官网](https://cybercollector.hitkey.io) | |
 | :---: | :---: |
 
 ## 停止维护与待核实条目
@@ -72,7 +72,7 @@ A curated list of social media downloaders and related media tools.
 提交条目时请：
 
 - 优先提供官方仓库或官网，避免使用来源不明的下载链接。
-- 放入对应分类，沿用现有卡片样式，提供清晰的名称与链接。
+- 放入对应分类，沿用现有卡片样式，提供封面、清晰的名称与链接；没有仓库卡片的服务可将封面存放在 `assets/covers/`。
 - 核实支持平台、必要依赖及收费限制，避免使用未经证实的宣传性描述。
 - 更新已有条目前先检查是否重复；发现停止维护或不可用的项目时注明依据。
 
