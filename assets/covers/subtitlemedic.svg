@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">SubtitleMedic</title>
+  <desc id="desc">Browser-based subtitle tools — Fix timing, convert formats and extract subtitles locally</desc>
+  <rect width="1280" height="640" fill="#ffffff"/>
+  <rect x="1" y="1" width="1278" height="638" rx="24" fill="none" stroke="#e2e8f0" stroke-width="2"/>
+  <g transform="translate(56 56) scale(7)" shape-rendering="crispEdges">
+    <rect width="16" height="16" fill="#0C6A46"/>
+    <rect x="3" y="7" width="10" height="2" fill="#F6F6F3"/>
+    <rect x="3" y="10" width="7" height="2" fill="#F2E15C"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="56" y="262" fill="#141414" font-size="72" font-weight="700">SubtitleMedic</text>
+    <text x="58" y="328" fill="#0C6A46" font-size="34" font-weight="600">Browser-based subtitle tools</text>
+    <text x="58" y="396" fill="#4a4a45" font-size="30">Fix timing, convert formats and extract subtitles locally</text>
+    <path d="M58 477h1164" stroke="#e2e8f0" stroke-width="2"/>
+    <text x="58" y="548" fill="#6b6b64" font-size="28">subtitlemedic.com</text>
+    <path d="M1168 524h32v32m-32 0 32-32" fill="none" stroke="#0C6A46" stroke-width="4"/>
+  </g>
+</svg>
