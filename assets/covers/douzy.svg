@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">Douzy</title>
+  <desc id="desc">Desktop downloader for Windows &amp; macOS — Douyin, TikTok, YouTube, Telegram &amp; X</desc>
+  <rect width="1280" height="640" fill="#ffffff"/>
+  <rect x="1" y="1" width="1278" height="638" rx="24" fill="none" stroke="#e2e8f0" stroke-width="2"/>
+  <g transform="translate(56 56) scale(1.75)">
+    <rect width="64" height="64" rx="16" fill="#FFE8C2"/>
+    <path d="M44 22 C 54 20, 58 28, 56 36 L 59 36 L 52 45 L 45 36 L 48 36 C 49 30, 47 27, 43 28 Z" fill="#22D3EE"/>
+    <path d="M12 44 C 10 26, 22 20, 28 20 C 38 20, 46 26, 44 44 C 44 50, 40 52, 28 52 C 16 52, 12 50, 12 44 Z" fill="#1F1D2C"/>
+    <path d="M14 24 L20 14 L25 25 Z" fill="#1F1D2C"/>
+    <path d="M42 24 L36 14 L31 25 Z" fill="#1F1D2C"/>
+    <circle cx="22" cy="34" r="2.4" fill="#FFE8C2"/>
+    <circle cx="34" cy="34" r="2.4" fill="#FFE8C2"/>
+    <path d="M28 38 l-1.6 2.3 h3.2 z" fill="#FFE8C2"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="56" y="262" fill="#0f172a" font-size="72" font-weight="700">Douzy</text>
+    <text x="58" y="328" fill="#0891b2" font-size="34" font-weight="600">Desktop downloader for Windows &amp; macOS</text>
+    <text x="58" y="396" fill="#475569" font-size="30">Douyin, TikTok, YouTube, Telegram &amp; X</text>
+    <path d="M58 477h1164" stroke="#e2e8f0" stroke-width="2"/>
+    <text x="58" y="548" fill="#64748b" font-size="28">godouzy.com</text>
+    <path d="M1168 524h32v32m-32 0 32-32" fill="none" stroke="#0891b2" stroke-width="4"/>
+  </g>
+</svg>
