@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">YouTubeVideoToMP4</title>
+  <desc id="desc">Online YouTube to MP4 downloader — paste a link, get the file</desc>
+  <rect width="1280" height="640" fill="#ffffff"/>
+  <rect x="1" y="1" width="1278" height="638" rx="24" fill="none" stroke="#e2e8f0" stroke-width="2"/>
+  <rect x="56" y="56" width="112" height="112" rx="28" fill="#dc2626"/>
+  <g fill="#ffffff">
+    <path d="M100 86l38 26-38 26z"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="56" y="262" fill="#0f172a" font-size="60" font-weight="700">YouTubeVideoToMP4</text>
+    <text x="58" y="328" fill="#dc2626" font-size="34" font-weight="600">YouTube to MP4 downloader</text>
+    <text x="58" y="396" fill="#475569" font-size="30">Paste a public link, get the MP4 file</text>
+    <path d="M58 477h1164" stroke="#e2e8f0" stroke-width="2"/>
+    <text x="58" y="548" fill="#64748b" font-size="28">youtubevideotomp4.com</text>
+    <path d="M1168 524h32v32m-32 0 32-32" fill="none" stroke="#dc2626" stroke-width="4"/>
+  </g>
+</svg>
