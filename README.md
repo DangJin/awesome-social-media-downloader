@@ -46,6 +46,7 @@ A curated list of social media downloaders and related media tools.
 | [![PullVid 封面](assets/covers/pullvid.svg)](https://pullvid.com)<br>**[PullVid](https://pullvid.com)**<br>YouTube、TikTok、Instagram、X、Facebook 等<br>在线下载与媒体格式转换。 | [![curl-x 封面](assets/covers/curl-x.svg)](https://www.curl-x.com)<br>**[curl-x](https://www.curl-x.com)**<br>X、Instagram、TikTok、Facebook 等<br>支持网页入口和终端 `curl`。 |
 | :---: | :---: |
 | [![VideoSaver 封面](assets/covers/videosaver.svg)](https://www.free-videodownload.com)<br>**[VideoSaver](https://www.free-videodownload.com)**<br>TikTok、Instagram、X、Facebook 等<br>通过公开链接下载，提供按平台划分的入口。 | [![SaveReelsApp 封面](assets/covers/savereelsapp.svg)](https://savereelsapp.com/)<br>**[SaveReelsApp](https://savereelsapp.com/)**<br>Instagram<br>通过公开链接下载 Reels 与视频帖（MP4），无需登录，可安装为 PWA。 |
+| [![Savoclip 封面](assets/covers/savoclip.svg)](https://savoclip.com)<br>**[Savoclip](https://savoclip.com)**<br>TikTok、Instagram、YouTube Shorts<br>通过公开链接下载视频（MP4）、音频（MP3）与图片，TikTok 无水印，无需登录，可安装为 PWA。 | |
 
 ## Telegram 机器人
 
